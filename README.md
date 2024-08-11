@@ -23,7 +23,10 @@ https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=cre
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##Contributors
+## Contributors
+
 [@Poornima](https://github.com/Nima0803)
+
 [@Asmitha](https://github.com/Asmitha-KK)
+
 [@Madihah](https://github.com/madihah19)
